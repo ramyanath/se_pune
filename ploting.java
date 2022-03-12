@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 class curv 
 {
     double amp , freq  ;
-    public  int []store = new int[900] ;
+    public  int []store = new int[4000] ;
     int br =0;
     int fun()
     {
